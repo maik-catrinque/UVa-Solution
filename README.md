@@ -1,1 +1,1 @@
-# UVa-CompetitiveProgrammingSolution-
+# UVa-Solution
